@@ -1,2 +1,2 @@
 # git_course
-#progect notes
+#progect_notes
